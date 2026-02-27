@@ -2,6 +2,6 @@ public class App
 {
     public static void main(String[] args)
     {
-        System.out.println("Urgent fix: Hello!");
+        System.out.println("Greetings from main!");
     }
 }
